@@ -153,24 +153,6 @@ paper/
 
 README.md  
 
-## How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/yourusername/heart-failure-prediction.git
-
-Install dependencies:
-
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-
-Run Jupyter Notebook:
-
-jupyter notebook
-
-Open:
-
-heart_failure_analysis.ipynb
-
 ## Future Improvements
 
 Possible enhancements for this project include:
@@ -183,4 +165,3 @@ Possible enhancements for this project include:
 ## References
 
 Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making.
-"""
