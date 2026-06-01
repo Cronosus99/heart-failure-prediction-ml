@@ -141,5 +141,6 @@ Possible enhancements for this project include:
 - Adding SHAP explanations for interpretability
 - Expanding the dataset with additional heart failure datasets
 ## References
- 
+
+Kaggle. (2020). Heart Failure Clinical Records Dataset. https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. *BMC Medical Informatics and Decision Making.*
